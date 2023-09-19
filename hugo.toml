@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fallonevents.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "paper"
