@@ -1,5 +1,5 @@
 theme = "ananke"
-
+featured_image = "images/FallonBackground.jpg"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
