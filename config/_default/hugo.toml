@@ -1,4 +1,9 @@
 theme = "ananke"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [module.hugoVersion]
 min = "0.128.0"
