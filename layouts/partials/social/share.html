@@ -23,11 +23,8 @@
       {{ with $config.share.sharetext -}}
         {{- $label = fmt.Printf "Share on %s" $setup.label -}}
       {{- end -}}
-      {{ if compare.Eq $setup.share "false" | compare.Default "true" -}}
-        {{- continue -}}
-        {{/* @todo notification into CLI that a network is configured but not supported */}}
-      {{- end -}}
-      {{- $options := (dict "context" page "setup" $setup) }}
+      {{ if not (compare.Eq $setup.share "false" | compare.Default "true") -}}
+      {{- $options := (dict "context" $context "setup" $setup) }}
       {{- $href := partials.Include "func/social/getShareLink.html" $options -}}
       <a href="{{ $href }}"
         class="ananke-social-link {{ $setup.slug }} no-underline"
@@ -50,6 +47,7 @@
           {{- $label -}}
         {{- end -}}
       </a>
+      {{- end -}}
     {{- end -}}
   </div>
 

@@ -51,7 +51,7 @@ css asset directory we (unless condition below) add to aforementioned slice */}}
       {{ if compare.Eq .MediaType.SubType "x-scss" "x-sass" "scss" "sass" }}
         {{ if hugo.IsExtended }}
           {{/* as we cannot concatenate styles of different types, we sass/scss to be transformed to css beforehand */}}
-          {{ $assets_to_concat = $assets_to_concat | collections.Append (. | css.Sass) }}
+          {{ $assets_to_concat = $assets_to_concat | collections.Append (. | resources.ToCSS) }}
         {{ else }}
           {{ partials.Include "func/warn.html" (fmt.Printf "Processing of stylesheet %s of type %s has been skipped. You need Hugo Extended to process such files." .Name .MediaType.SubType) }}
         {{ end }}
