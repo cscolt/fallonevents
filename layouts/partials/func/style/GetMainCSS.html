@@ -66,9 +66,8 @@ css asset directory we (unless condition below) add to aforementioned slice */}}
   {{/* We proceed to concatenate the $assets_to_concat */}}
   {{ $style := . | resources.Concat "ananke/css/main.css" }}
 
-  {{/* We then use toCSS to add sourceMap and minify */}}
-  {{ $options := dict "enableSourceMap" true "precision" 6 }}
-  {{ $style = $style | css.Sass $options | resources.Minify }}
+  {{/* We then minify the concatenated CSS directly */}}
+  {{ $style = $style | resources.Minify }}
   {{/* We fingerprint in production for cache busting purposes */}}
   {{ if hugo.IsProduction }}
     {{ $style = $style | resources.Fingerprint }}
