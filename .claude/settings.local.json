@@ -13,7 +13,11 @@
       "Bash(export PATH=~/bin:$PATH)",
       "Bash(~/bin/hugo version)",
       "Bash(~/bin/hugo mod get:*)",
-      "Bash(~/bin/hugo:*)"
+      "Bash(~/bin/hugo:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(npm run deploy:*)"
     ],
     "deny": [],
     "ask": []
