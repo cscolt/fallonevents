@@ -16,9 +16,16 @@ Starts local development server at http://localhost:1313
 
 ### Build
 ```bash
-hugo
+hugo --minify
 ```
-Builds the site to the `public/` directory
+Builds the site to the `public/` directory with minification
+
+### Module Management
+```bash
+hugo mod get github.com/theNewDynamic/gohugo-theme-ananke@master
+hugo mod tidy
+```
+Updates theme module and cleans dependencies
 
 ## Architecture
 
