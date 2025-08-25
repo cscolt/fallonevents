@@ -1,7 +1,19 @@
 {
   "permissions": {
     "allow": [
-      "Bash(hugo serve:*)"
+      "Bash(hugo serve:*)",
+      "Bash(hugo:*)",
+      "Bash(pkill:*)",
+      "Bash(git submodule add:*)",
+      "Bash(git rm:*)",
+      "Bash(git submodule:*)",
+      "Bash(git clone:*)",
+      "Bash(snap list:*)",
+      "Bash(wget:*)",
+      "Bash(export PATH=~/bin:$PATH)",
+      "Bash(~/bin/hugo version)",
+      "Bash(~/bin/hugo mod get:*)",
+      "Bash(~/bin/hugo:*)"
     ],
     "deny": [],
     "ask": []

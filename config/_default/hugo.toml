@@ -1,9 +1,13 @@
-theme = "ananke"
-featured_image = "images/FallonBackground.jpg"
+title = "Fallon Events"
+featured_image = '/static/images/cover.jpg'
+
+[module]
+  [module.hugoVersion]
+    min = "0.128.0"
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[module.hugoVersion]
-min = "0.128.0"
