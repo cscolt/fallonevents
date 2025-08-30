@@ -2,6 +2,7 @@
 title: "21+ Events"
 date: 2025-08-30T17:29:40Z
 draft: false
+featured_image: '/static/images/adults-hero.jpg'
 ---
 
 # 21+ Events in Fallon

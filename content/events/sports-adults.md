@@ -2,6 +2,7 @@
 title: "Sports Leagues for Adults"
 date: 2025-08-30T17:29:40Z
 draft: false
+featured_image: '/static/images/sports-adults-hero.jpg'
 ---
 
 # Adult Sports Leagues in Fallon

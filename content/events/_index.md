@@ -2,6 +2,7 @@
 title: "Events in Fallon"
 date: 2025-08-30T18:42:00Z
 draft: false
+featured_image: '/static/images/events-hero.jpg'
 ---
 
 # Events in Fallon, Nevada
