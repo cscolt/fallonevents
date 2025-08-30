@@ -37,7 +37,7 @@ When submitting your event, please include:
 
 ## How to Submit
 
-**Email**: Send event details to [events@fallonevents.com](mailto:events@fallonevents.com)
+**Email**: Send event details to [events@fallonevents.com](mailto:eventsfallon@gmail.com)
 
 **Social Media**: Tag us on social media with your event details
 
