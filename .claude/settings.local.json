@@ -18,7 +18,9 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(npm run deploy:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:gohugo.io)"
     ],
     "deny": [],
     "ask": []
