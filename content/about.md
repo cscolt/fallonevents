@@ -2,7 +2,7 @@
 title: "About Us"
 date: 2025-08-30T17:29:40Z
 draft: false
-featured_image: '/static/images/about-hero.jpg'
+featured_image: '/images/about-hero.jpg'
 ---
 
 # About Fallon Events
