@@ -11,3 +11,62 @@ featured_image = '/static/images/cover.jpg'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+[menu]
+  [[menu.main]]
+    name = "About Us"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Events"
+    identifier = "events"
+    weight = 20
+
+  [[menu.main]]
+    name = "Events for Kids"
+    url = "/events/kids/"
+    parent = "events"
+    weight = 21
+
+  [[menu.main]]
+    name = "21+ Events"
+    url = "/events/adults/"
+    parent = "events"
+    weight = 22
+
+  [[menu.main]]
+    name = "Food Events"
+    url = "/events/food/"
+    parent = "events"
+    weight = 23
+
+  [[menu.main]]
+    name = "Events for the Whole Family"
+    url = "/events/family/"
+    parent = "events"
+    weight = 24
+
+  [[menu.main]]
+    name = "Sports to Watch"
+    url = "/events/sports-watch/"
+    parent = "events"
+    weight = 25
+
+  [[menu.main]]
+    name = "Sports Leagues for Kids"
+    url = "/events/sports-kids/"
+    parent = "events"
+    weight = 26
+
+  [[menu.main]]
+    name = "Sports Leagues for Adults"
+    url = "/events/sports-adults/"
+    parent = "events"
+    weight = 27
+
+  [[menu.main]]
+    name = "Submit Events"
+    url = "/submit/"
+    weight = 30

@@ -1,0 +1,26 @@
+---
+title: "Sports to Watch"
+date: 2025-08-30T17:29:40Z
+draft: false
+---
+
+# Sports to Watch in Fallon
+
+Spectator sports events, viewing parties, and sports entertainment in the Fallon area.
+
+## Upcoming Sports Events
+
+*Check back regularly for updated event listings*
+
+## Event Types We Feature
+
+- **Local Games**: High school football, basketball, baseball games
+- **Viewing Parties**: Sports bars hosting game nights, championship viewings  
+- **Professional Events**: Rodeo, motorsports, professional competitions
+- **College Sports**: University of Nevada games, college tournaments
+- **Special Events**: Sports award ceremonies, athlete recognition events
+- **Community Sports**: Local tournaments, charity sports events
+
+## Submit a Sports Event
+
+Hosting or know about a sports viewing event in Fallon? [Let us know](/submit/) so sports fans can join in the action.
