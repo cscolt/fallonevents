@@ -5,4 +5,4 @@ draft: false
 
 featured_image: "/images/cover.jpg"
 ---
-This site aims to produce a calendar that contains as many upcoming Fallon, Nevada events as possible.
+This site will catalog as many events in Fallon, Nevada as possible. To add a link Submit your own [Here](/submit/) 
