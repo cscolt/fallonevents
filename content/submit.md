@@ -39,7 +39,7 @@ When submitting your event, please include:
 
 **Email**: Send event details to [events@fallonevents.com](mailto:eventsfallon@gmail.com)
 
-**Social Media**: Tag us on social media with your event details
+**Our Form**: Fill out this form for fastest submission. [Submit an Event  ](https://forms.gle/ENzjkj3agKnGfFRQA)
 
 ## Submission Deadlines
 
