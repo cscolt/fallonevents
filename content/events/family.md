@@ -2,7 +2,7 @@
 title: "Events for the Whole Family"
 date: 2025-08-30T17:29:40Z
 draft: false
-featured_image: '/static/images/family-hero.jpg'
+featured_image: '/images/family-hero.jpg'
 ---
 
 # Family Events in Fallon

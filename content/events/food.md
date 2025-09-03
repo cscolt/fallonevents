@@ -2,7 +2,7 @@
 title: "Food Events"
 date: 2025-08-30T17:29:40Z
 draft: false
-featured_image: '/static/images/food-hero.jpg'
+featured_image: '/images/food-hero.jpg'
 ---
 
 # Food Events in Fallon
