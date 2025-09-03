@@ -2,7 +2,7 @@
 title: "Sports to Watch"
 date: 2025-08-30T17:29:40Z
 draft: false
-featured_image: '/static/images/sports-watch-hero.jpg'
+featured_image: '/images/sports-watch-hero.jpg'
 ---
 
 # Sports to Watch in Fallon
