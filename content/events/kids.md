@@ -11,8 +11,7 @@ Discover fun and engaging activities designed specifically for children in our c
 
 ## Upcoming Kids' Events
 
-*Check back regularly for updated event listings*
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=AGENDA&title=Events%20for%20Kids&src=MGNhNWVlYzg2ZDIxNTM5ZDc2YzM5OTc3MjAwMjhlOWFkMDUwNjFkNDZlZmM1NGFiZDc4ZjE0ZmNlYzQwYTZkYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23d81b60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ## Event Types We Feature
 
 - **Educational Programs**: Library story times, museum workshops, STEM activities

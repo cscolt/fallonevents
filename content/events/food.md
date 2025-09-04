@@ -11,7 +11,7 @@ Culinary experiences, dining events, and food-related activities in the Fallon a
 
 ## Upcoming Food Events
 
-*Check back regularly for updated event listings*
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=AGENDA&title=Food%20Events&src=ZTg3ZmJiYzg5ZmM0MjBhNGZkNDg0M2IzMmZkOWEyMmYzNTg3OTM4MGUyODU4NzhmYTQ3YjFhMDM0OTkyNWNkN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23a79b8e" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Event Types We Feature
 

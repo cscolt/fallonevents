@@ -11,7 +11,7 @@ Activities and events that bring the whole family together for fun and memorable
 
 ## Upcoming Family Events
 
-*Check back regularly for updated event listings*
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=AGENDA&title=Events%20for%20the%20Whole%20Family&src=MDc2MDU0YzAxNjUwNTg3M2I1MmZhY2ExNDY1YjJkMmY5NWZmOTZiYjFhNzUwZjA4MTkyZGZlMmYwMzdlZGRjNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%234285f4" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Event Types We Feature
 

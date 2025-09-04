@@ -11,7 +11,7 @@ Adult entertainment, nightlife, and age-restricted activities in the Fallon area
 
 ## Upcoming Adult Events
 
-*Check back regularly for updated event listings*
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=AGENDA&title=21%2B%20Events&src=NTBjMTkxYzQ3YjU0MDBiM2UyZmYxYmVkZGMzN2E3NGJiNzRhNTdiYjQ2NjE5NjM1NTk0ZDc5YjJlNzI3ODUwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23f6bf26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Event Types We Feature
 

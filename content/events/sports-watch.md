@@ -13,6 +13,8 @@ Spectator sports events, viewing parties, and sports entertainment in the Fallon
 
 *Check back regularly for updated event listings*
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=AGENDA&title=Sports%20to%20Watch&src=YzQ2ZjI0ZWFkMWIxNzk5MzgzY2JhZTAxOWIwZTI3MzcyOTkzNjFkNjkyMjNmYzZlYzM5OGNmNzk0ZTE2ZTZmZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23ad1457" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Event Types We Feature
 
 - **Local Games**: High school football, basketball, baseball games
